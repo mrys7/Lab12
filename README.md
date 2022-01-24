@@ -1,5 +1,5 @@
 # PRiR zadania lab 12
-##Obrazy wejściowe:<br>
+## Obrazy wejściowe:<br>
 ![](cat.png)
 ![](artwork.jpg)<br><br>
 ##Wyniki ze względu na ilość iteracji <br>
@@ -8,7 +8,7 @@
 1500: <br>![](1500(1).png)<br>
 4000: <br>![](4000(1).png)<br>
 
-##Wpływ wyboru warstw:
+## Wpływ wyboru warstw:
 Podstawowe: (obrazy wyżej)
 ```
 style_layer_names = [
@@ -32,5 +32,5 @@ style_layer_names = [
 700: <br>![](700(2).png)<br>
 1500: <br>![](1500(2).png)<br>
 
-##Źródła
+## Źródła
 https://keras.io/examples/generative/neural_style_transfer/
