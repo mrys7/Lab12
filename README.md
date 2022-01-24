@@ -31,3 +31,6 @@ style_layer_names = [
 100: <br>![](100(2).png)<br>
 700: <br>![](700(2).png)<br>
 1500: <br>![](1500(2).png)<br>
+
+##Źródła
+https://keras.io/examples/generative/neural_style_transfer/
